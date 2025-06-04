@@ -81,7 +81,7 @@ header {
     .menu{
         height:40px;
         width:30px;
-        background: url("../Images/menu.webp");
+        background: url("../images/menu.webp");
         background-repeat: no-repeat;
         background-size: contain;
         z-index: 2;
