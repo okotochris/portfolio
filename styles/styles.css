@@ -43,7 +43,10 @@ header {
   height: 113px;
   font-size: 14px;
 }
-
+header a{
+  color:white;
+  text-decoration: none;
+}
 .header-content {
   width: 80%;
   display: flex;
